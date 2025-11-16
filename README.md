@@ -2,7 +2,7 @@
 
 This repository contains my SQL practice work, capstone assignments, and real-world style queries that I solved during my Data Analyst training.
 
-### ✔ 1. 24 SQL Query Assignment
+### SQL Query Assignment
 This file contains 24 problem statements solved during the first capstone project.  
 It covers:
 - SELECT, WHERE, GROUP BY, ORDER BY  
@@ -11,7 +11,7 @@ It covers:
 - Aggregate functions  
 - Subqueries & CTEs  
 
-##  Tools & Skills Used
+## Tools & Skills Used
 - MySQL / PostgreSQL
 - DDL, DML Queries
 - Joins & Relationships
